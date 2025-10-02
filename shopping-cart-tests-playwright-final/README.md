@@ -1,7 +1,7 @@
 # Automated Testing  – Playwright + Java + Cucumber
 
 This repository contains automated tests for the evaluation application:  
-➡️ https://automated-test-evaluation.web.app/
+  https://automated-test-evaluation.web.app/
 
 #  Requirements
 - Java 17+
