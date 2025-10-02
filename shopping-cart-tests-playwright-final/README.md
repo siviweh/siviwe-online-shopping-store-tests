@@ -3,7 +3,7 @@
 This repository contains automated tests for the evaluation application:  
 ➡️ https://automated-test-evaluation.web.app/
 
-##  Requirements
+#  Requirements
 - Java 17+
 - Maven 3+
 - Google Chrome installed on macOS
@@ -30,4 +30,3 @@ target/cucumber-report.html
 - Add product to cart
 - Remove product from cart
 - Increase product quantity in cart
-- Repository accessibility check (valid GitHub link, downloadable repo, README present)
